@@ -1,0 +1,8 @@
+Added Component: Designator=MH1(MH_3.5MMX3.5MM)
+Added Component: Designator=MH2(MH_3.5MMX3.5MM)
+Added Component: Designator=MH3(MH_3.5MMX3.5MM)
+Added Component: Designator=MH4(MH_3.5MMX3.5MM)
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
